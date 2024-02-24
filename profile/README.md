@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🤎 Anudar
+|[![nks211](https://avatars.githubusercontent.com/u/76023648?v=4)](https://github.com/nks211)|[![PARK9YUR1](https://avatars.githubusercontent.com/u/132658372?v=4)](https://github.com/PARK9YUR1)|[![sarang682](https://avatars.githubusercontent.com/u/78913658?v=4)](https://github.com/sarang682)|[![YUNA-AHN](https://avatars.githubusercontent.com/u/130244216?v=4)](https://github.com/YUNA-AHN)|[![chosuhyeon0812](https://avatars.githubusercontent.com/u/119795734?v=4)](https://github.com/chosuhyeon0812)|[![suyeon-hyeon](https://avatars.githubusercontent.com/u/81295902?v=4)](https://github.com/suyeon-hyeon)|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|[김민우](https://github.com/nks211)<br>FE|[박규리](https://github.com/PARK9YUR1)<br>FE|[박사랑](https://github.com/sarang682)<br>BE|[안유나](https://github.com/YUNA-AHN)<br>BE|[조수현](https://github.com/chosuhyeon0812)<br>BE|[현수연](https://github.com/suyeon-hyeon)<br>BE|
